@@ -1,0 +1,37 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.4",
+    "@svgr/webpack": "^8.1.0",
+    "axios": "^1.7.2",
+    "fuse": "^0.12.1",
+    "fuse.js": "^7.0.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mail-listener2": "^0.3.1",
+    "mailparser": "^3.7.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "next": "^14.2.5",
+    "node": "^22.5.1",
+    "node-imap": "^0.9.6",
+    "nodemailer": "^6.9.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
